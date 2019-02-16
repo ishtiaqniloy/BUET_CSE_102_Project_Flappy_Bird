@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Flappy Bird" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Flappy_Bird" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="opengl32" />
+					<Add library="glu32" />
+					<Add library="glut32" />
+					<Add library="glaux" />
+					<Add library="winmm" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Basketball_project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="1.bmp" />
+		<Unit filename="10.bmp" />
+		<Unit filename="2.bmp" />
+		<Unit filename="3.bmp" />
+		<Unit filename="4.bmp" />
+		<Unit filename="5.bmp" />
+		<Unit filename="6.bmp" />
+		<Unit filename="7.bmp" />
+		<Unit filename="8.bmp" />
+		<Unit filename="9.bmp" />
+		<Unit filename="BG_1000.bmp" />
+		<Unit filename="BG_1066.bmp" />
+		<Unit filename="BG_1071.bmp" />
+		<Unit filename="BG_600.bmp" />
+		<Unit filename="Bird.bmp" />
+		<Unit filename="FlappyBird.h" />
+		<Unit filename="TextureList.h" />
+		<Unit filename="flappy_highScore" />
+		<Unit filename="iGraphics.h" />
+		<Unit filename="iMain.cpp" />
+		<Unit filename="pipe down.bmp" />
+		<Unit filename="pipe up.bmp" />
+		<Unit filename="sfx_die.wav" />
+		<Unit filename="sfx_hit&amp;die.wav" />
+		<Unit filename="sfx_hit.wav" />
+		<Unit filename="sfx_point.wav" />
+		<Unit filename="sfx_swooshing.wav" />
+		<Unit filename="sfx_wing.wav" />
+		<Unit filename="texture.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

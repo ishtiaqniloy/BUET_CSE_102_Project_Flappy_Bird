@@ -1,0 +1,282 @@
+# depslib dependency file v1.0
+1464541828 source:c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_updated\imain.cpp
+	"iGraphics.h"
+	"header_n.h"
+	"headerflappy.h"
+	<windows.h>
+
+1464447847 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_updated\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1464541828 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_updated\texturelist.h
+	"texture.h"
+
+1449395484 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_updated\texture.h
+
+1464542435 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_updated\header_n.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1464541828 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_updated\headerflappy.h
+	<time.h>
+	<stdlib.h>
+
+1464879442 source:c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball\imain.cpp
+	"iGraphics.h"
+	"header_n.h"
+	"headerflappy.h"
+	<windows.h>
+
+1464447847 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1464880518 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball\texturelist.h
+	"texture.h"
+
+1449395484 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball\texture.h
+
+1464881455 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball\header_n.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1464881416 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball\headerflappy.h
+	<time.h>
+	<stdlib.h>
+
+1464887215 source:c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball_v2\imain.cpp
+	"iGraphics.h"
+	"FlappyBird.h"
+	<windows.h>
+
+1464447847 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball_v2\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1464880518 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball_v2\texturelist.h
+	"texture.h"
+
+1449395484 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball_v2\texture.h
+
+1464886694 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball_v2\header_n.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1464886657 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball_v2\headerflappy.h
+	<time.h>
+	<stdlib.h>
+
+1464887286 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_stable_ball_v2\flappybird.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1464888131 source:c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_ball\imain.cpp
+	"iGraphics.h"
+	"FlappyBird.h"
+	<windows.h>
+
+1464447847 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_ball\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1464880518 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_ball\texturelist.h
+	"texture.h"
+
+1449395484 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_ball\texture.h
+
+1464888358 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_ball\flappybird.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1464923179 source:c:\users\asus\downloads\flappy-bird_sound_ball\flappy bird_sound_ball\imain.cpp
+	"iGraphics.h"
+	"FlappyBird.h"
+	<windows.h>
+
+1464447846 c:\users\asus\downloads\flappy-bird_sound_ball\flappy bird_sound_ball\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1464880518 c:\users\asus\downloads\flappy-bird_sound_ball\flappy bird_sound_ball\texturelist.h
+	"texture.h"
+
+1449395484 c:\users\asus\downloads\flappy-bird_sound_ball\flappy bird_sound_ball\texture.h
+
+1464888358 c:\users\asus\downloads\flappy-bird_sound_ball\flappy bird_sound_ball\flappybird.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1464923398 source:c:\users\ishti\desktop\flappy_bird_done_with_mouse\flappy bird_sound_ball\imain.cpp
+	"iGraphics.h"
+	"FlappyBird.h"
+	<windows.h>
+
+1464447846 c:\users\ishti\desktop\flappy_bird_done_with_mouse\flappy bird_sound_ball\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1464880518 c:\users\ishti\desktop\flappy_bird_done_with_mouse\flappy bird_sound_ball\texturelist.h
+	"texture.h"
+
+1449395484 c:\users\ishti\desktop\flappy_bird_done_with_mouse\flappy bird_sound_ball\texture.h
+
+1464888358 c:\users\ishti\desktop\flappy_bird_done_with_mouse\flappy bird_sound_ball\flappybird.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1465203948 source:c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_ball_mouse\imain.cpp
+	"iGraphics.h"
+	"FlappyBird.h"
+	<windows.h>
+
+1464447846 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_ball_mouse\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465065147 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_ball_mouse\texturelist.h
+	"texture.h"
+
+1449395484 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_ball_mouse\texture.h
+
+1465204310 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_ball_mouse\flappybird.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1465203948 source:c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_bird_mouse\imain.cpp
+	"iGraphics.h"
+	"FlappyBird.h"
+	<windows.h>
+
+1464447846 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_bird_mouse\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465065147 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_bird_mouse\texturelist.h
+	"texture.h"
+
+1449395484 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_bird_mouse\texture.h
+
+1465204310 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_sound_bird_mouse\flappybird.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

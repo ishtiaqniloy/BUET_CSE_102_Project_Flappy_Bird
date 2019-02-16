@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1465454041 source:c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_final\imain.cpp
+	"iGraphics.h"
+	"FlappyBird.h"
+	<windows.h>
+
+1464447846 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_final\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465065146 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_final\texturelist.h
+	"texture.h"
+
+1449395484 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_final\texture.h
+
+1465454040 c:\users\ishti\google drive\projects\l-1 t-1\flappy bird_final\flappybird.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
